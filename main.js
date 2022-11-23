@@ -44,13 +44,7 @@ let track_list = [
     artist: "Chad Crouch",
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
-  },
-  {
-    name: "Faded",
-    artist: "Alan Walker",
-    image :"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.filmaffinity.com%2Fus%2Ffilm907285.html&psig=AOvVaw29HE0b2E6-RCdTsOOrzjdX&ust=1669284760104000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIi_0LyIxPsCFQAAAAAdAAAAABAD",
-    path: ""
-  },
+  }
 ];
 
 function random_bg_color() {
